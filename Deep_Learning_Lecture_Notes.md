@@ -1,5 +1,5 @@
 # Deep Learning 
-## Lecture 1
+## Lecture 1 
 ## Lecture 2 
 ### Practical Tips III 
 
@@ -23,7 +23,7 @@
 1. Resiual(Skip-connection)
  
 
-1*1 conv for bottleneck 
+**1*1 conv for bottleneck**  
 
 
 ### Fashion Model
@@ -42,6 +42,12 @@ Through XAI Attribution
 * GAN 
 * Super-resolution 
 * 忘了 
+
+
+## Implementation 
+
+### Wandb Keral Callbacks 
+[wandb](https://docs.wandb.ai/ref/python/integrations/keras/wandbcallback) 
 
 
 
