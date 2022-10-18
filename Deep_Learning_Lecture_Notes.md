@@ -106,6 +106,7 @@ When training a neural network, the goal is to make it model a target function $
 * Cutout: Drop connected components along width, height
 and/or depth
 
+#### SE Block 
 #### Inverted Residuals and Linear Bottlenecks (Not using)
 
 ### Modern Network Module 
@@ -267,6 +268,10 @@ Set in the normal convolution
 1. Bottleneck 
 1. Attention
 1. Resiual(Skip-connection)
+
+### Resnet 
+Models with different layers: **18, 34, 50, 101, 152**. 
+
  
 **1*1 conv for bottleneck**  
 
@@ -274,4 +279,6 @@ Set in the normal convolution
 
 ### Wandb Keral Callbacks 
 [Wandb Keras Callback](https://docs.wandb.ai/ref/python/integrations/keras/wandbcallback) 
+
+
 
